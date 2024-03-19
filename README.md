@@ -17,7 +17,7 @@ One of my standout projects is **Rentify**, an application that allows users to 
 
 ## Experience
 
-My experience with Rentify allowed me to learn new technologies like TypeScript, MongoDB, and user authentication with Firebase. It also enhanced my leadership skills and teamwork abilities.
+My experience with Rentify allowed me to learn new technologies like TypeScript. It also enhanced my leadership skills and teamwork abilities.
 
 ## Contact
 
