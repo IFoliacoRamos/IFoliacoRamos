@@ -1,4 +1,5 @@
 # Hello there! 👋 I'm Alejandra Foliaco
+![Alejandra foliaco](https://github.com/IFoliacoRamos/IFoliacoRamos/assets/125612338/bfcf11a6-ace7-4abb-998c-5f58427b39ca)
 Welcome to my GitHub profile! I'm a passionate full stack developer with a love for technology and continuous learning. I've had the opportunity to work on exciting projects and I'm always seeking new challenges to grow professionally. Let me tell you a bit about myself:
 
 ## About Me
