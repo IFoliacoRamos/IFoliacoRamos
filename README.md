@@ -1,5 +1,5 @@
 # Hello there! 👋 I'm Alejandra Foliaco
-
+"C:\Users\iveth\Downloads\Alejandra foliaco.jpg"
 Welcome to my GitHub profile! I'm a passionate full stack developer with a love for technology and continuous learning. I've had the opportunity to work on exciting projects and I'm always seeking new challenges to grow professionally. Let me tell you a bit about myself:
 
 ## About Me
