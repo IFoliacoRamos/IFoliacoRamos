@@ -23,5 +23,5 @@ My experience with Rentify allowed me to learn new technologies like TypeScript.
 
 If you're interested in collaborating on exciting projects or just want to chat about technology, feel free to reach out!
 
-- 📧 Email: ivaleja3415@gmail.com
+- 📧 Email: alejandrafoliaco.r@gmail.com
 - 💼 LinkedIn: [Alejandra Foliaco](http://www.linkedin.com/in/alejandra-foliaco-a74137278)
